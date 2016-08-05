@@ -3,7 +3,7 @@
 
 ### 效果图
   
-   ![ABC](https://github.com/xiaohaibin/OpenEyes/blob/master/screenshots/001.jpg) 
+   ![ABC](https://github.com/xiaohaibin/Maillineview/tree/master/sceenshots/001.jpg) 
   
     
 ### 使用方式

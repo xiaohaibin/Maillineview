@@ -23,7 +23,14 @@ dependencies {
 </dependency>
 
 ```
-- 直接拷贝
+- 直接拷贝代码
+
+###xml布局
+```
+ <com.xhb.jxnk25.maillineview.MailLineView
+      android:layout_width="match_parent"
+      android:layout_height="4dp"/>
+```
 ### 关于我
   
 个人邮箱：xhb_199409@163.com

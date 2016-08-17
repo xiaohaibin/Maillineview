@@ -10,7 +10,7 @@
 - Gradle方式引入
 ```
 dependencies {
-    compile 'com.xhb.jxnk25:MailLineView:1.0.0'
+    compile 'com.xhb.jxnk25:MailLineView:1.1.0'
 }
 ```
 - Maven 方式引入

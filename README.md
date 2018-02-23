@@ -25,7 +25,7 @@ dependencies {
 ```
 - 直接拷贝代码
 
-###xml布局
+### xml布局
 ```
  <com.xhb.jxnk25.maillineview.MailLineView
       android:layout_width="match_parent"
